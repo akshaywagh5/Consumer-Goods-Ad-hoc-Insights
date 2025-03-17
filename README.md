@@ -67,5 +67,5 @@ This project includes SQL queries optimized for:
 ├── README.md (This document)
 ```
 
-🔗 **Connect with me on LinkedIn**: [Your LinkedIn Profile]
+🔗 **Connect with me on LinkedIn**: [https://www.linkedin.com/in/akshay-wagh-ba08b3119/]
 🚀 **Let's analyze data-driven decisions together!**
