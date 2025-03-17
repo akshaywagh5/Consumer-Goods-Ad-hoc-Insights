@@ -8,9 +8,9 @@ This project dives into the sales performance of Atliq Hardware using SQL querie
 ## 📂 SQL Scripts  
 Click on any script below to view it directly on GitHub:  
 
-- [**Basic SQL.sql**](https://github.com/yourusername/your-repository-name/blob/main/SQL%20Scripts/Basic%20SQL.sql) – Fundamental SQL queries for data extraction and transformation.  
-- [**SQL Advanced_Finance Analytics.sql**](https://github.com/yourusername/your-repository-name/blob/main/SQL%20Scripts/SQL%20Advanced_Finance%20Analytics.sql) – Advanced financial analytics using SQL.  
-- [**Supply Chain.sql**](https://github.com/yourusername/your-repository-name/blob/main/SQL%20Scripts/Supply%20Chain.sql) – SQL queries for analyzing supply chain performance.  
+- [**Basic SQL.sql**](https://github.com/akshaywagh5/Consumer-Goods-Ad-hoc-Insights/blob/main/SQL%20Scripts/Basic%20SQL.sql) – Fundamental SQL queries for data extraction and transformation.  
+- [**SQL Advanced_Finance Analytics.sql**](https://github.com/akshaywagh5/Consumer-Goods-Ad-hoc-Insights/blob/main/SQL%20Scripts/SQL%20Advanced_Finance%20Analytics.sql) – Advanced financial analytics using SQL.  
+- [**Supply Chain.sql**](https://github.com/akshaywagh5/Consumer-Goods-Ad-hoc-Insights/blob/main/SQL%20Scripts/Supply%20Chain.sql) – SQL queries for analyzing supply chain performance.  
 
 ## 📊 Key Business Insights
 
